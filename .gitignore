@@ -7,3 +7,4 @@ __pycache__/
 *.flac
 **/MUSDB18/**
 **/musdb/**
+.DS_Store
